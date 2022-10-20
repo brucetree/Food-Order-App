@@ -1,4 +1,4 @@
-#Food Order App
+# Food Order App
 This application is to let user add items to cart and manage items 
 ## Launch the application
 `npm start`
